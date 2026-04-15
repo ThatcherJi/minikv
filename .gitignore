@@ -1,0 +1,7 @@
+﻿.tools/
+.cursor/
+target/
+*.zip
+.vscode/
+*.exe
+
